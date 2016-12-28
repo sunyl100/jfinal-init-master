@@ -1,0 +1,22 @@
+*.class
+.gradle/
+gradle/
+classes/
+
+# IDEA
+*.iml
+.idea/
+build/
+out/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# a_little_config.txt
+
+# Package Files #
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
